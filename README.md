@@ -17,6 +17,8 @@ BS Computer Science Student
 <a href="https://www.github.com/buddy-jr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
+<img src="https://github.com/buddy-jr/buddy-jr/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
 ## 🐍 My Contributions
 
 <div align="center">
