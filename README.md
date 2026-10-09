@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://img.shields.io/badge/Profile%20Views-%23000000?style=for-the-badge&logo=github&logoColor=white&color=2ea44f" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=buddy-jr&color=00ffcc&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
 </div>
 
 ## My Contributions
