@@ -17,9 +17,7 @@ BS Computer Science Student
 <a href="https://www.github.com/buddy-jr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
-<p">
-  <img src="https://komarev.com/ghpvc/?username=buddy-jr&label=Profile%20visits&color=2ea043&style=for-the-badge" alt="Profile visits" />
-</p>
+ <img src="https://komarev.com/ghpvc/?username=buddy-jr&label=Profile%20visits&color=2ea043&style=for-the-badge" alt="Profile visits" />
 
 ## My Contributions
 
