@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-
 
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/buddy-jr/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=buddy-jr&color=blue&style=flat-square" alt="Visitor's Count" />
 </div>
 
 ## 🐍 My Contributions
