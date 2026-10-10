@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-
 
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buddy-jr&label=Profile%20visits&color=2ea043&style=for-the-badge" alt="Profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=buddy-jr&color=2ea043&style=flat-square&label=Profile%20Visits" alt="Profile Visits" />
 </p>
 
 ## My Contributions
