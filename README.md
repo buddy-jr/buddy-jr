@@ -20,9 +20,13 @@ src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-
 ## My Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buddy-jr/buddy-jr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buddy-jr/buddy-jr/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/buddy-jr/buddy-jr/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/buddy-jr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buddy-jr/buddy-jr/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buddy-jr/buddy-jr/output/github-contribution-grid-snake.svg" />
+      <img alt="Buddy's GitHub Contribution Snake" src="https://raw.githubusercontent.com/buddy-jr/buddy-jr/output/github-contribution-grid-snake.svg" width="100%" />
+    </picture>
+  </a>
+  <br />
+  <sub><i>Watch the snake eat my daily commits in real time!</i></sub>
 </div>
