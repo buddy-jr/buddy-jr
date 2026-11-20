@@ -28,5 +28,4 @@ src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-
     </picture>
   </a>
   <br />
-  <sub><i>Watch the snake eat my daily commits in real time!</i></sub>
 </div>
