@@ -51,15 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=buddy-jr&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=06b6d4&bg_color=0d1117&border_color=1e293b&hide_border=false" alt="Buddy's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddy-jr&layout=compact&theme=tokyonight&title_color=0891b2&bg_color=0d1117&border_color=1e293b&hide_border=false" alt="Top Languages" />
-</div>
-
----
-
 ### 🐍 My Contributions
 
 <div align="center">
