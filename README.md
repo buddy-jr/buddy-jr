@@ -1,66 +1,60 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Buddy+Senolos+Jr.!;BS+Computer+Science+Student;Full-Stack+Web+%26+Software+Developer" alt="Typing SVG" />
+
+# Buddy Senolos Jr.
+**BS Computer Science Student** • Calbayog City, Western Samar, Philippines
+
+<a href="https://github.com/buddy-jr">
+  <img src="https://img.shields.io/github/followers/buddy-jr?label=Followers&style=flat-square&color=0891b2&labelColor=0d1117&logo=github" alt="GitHub Followers" />
+</a>
+<a href="mailto:buddy.senolos@gmail.com">
+  <img src="https://img.shields.io/badge/Email-buddy.senolos%40gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+<a href="https://www.facebook.com/buddybalandraysenolosjr">
+  <img src="https://img.shields.io/badge/Facebook-Profile-0891b2?style=flat-square&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook" />
+</a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/buddy-jr">
-    <img src="https://img.shields.io/github/followers/buddy-jr?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" alt="GitHub Followers" />
-  </a>
-  <a href="mailto:buddy.senolos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-buddy.senolos%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/buddybalandraysenolosjr">
-    <img src="https://img.shields.io/badge/Facebook-Connect-0891b2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook" />
-  </a>
-</p>
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👤 Profile
+- 🎓 Studying **BS Computer Science** at Northwest Samar State University
+- 💻 Developing cross-platform mobile apps, web systems, and CLI tools
+- 🌱 Exploring full-stack architecture, UI/UX, and software engineering
+- 📫 Reach out anytime at **[buddy.senolos@gmail.com](mailto:buddy.senolos@gmail.com)**
+
+</td>
+<td valign="top" width="50%">
+
+### ⚡ Core Stack
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=0891b2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=0891b2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=0891b2)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=0891b2)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=0891b2)
+![React](https://img.shields.io/badge/React_&_Native-0d1117?style=for-the-badge&logo=react&logoColor=0891b2)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=0891b2)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=0891b2)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=0891b2)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-0d1117?style=for-the-badge&logo=sublimetext&logoColor=0891b2)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 **Education:** BS Computer Science Student
-- 🌍 **Location:** Calbayog City, Western Samar, Philippines
-- 🔭 **Focus:** Building web applications, solving algorithmic problems, and exploring full-stack development
-- 📫 **Reach me at:** [buddy.senolos@gmail.com](mailto:buddy.senolos@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="38" height="38" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="38" height="38" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="38" height="38" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="38" height="38" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="38" height="38" /></a>
-</p>
-
-**Frontend & Database**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="38" height="38" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="38" height="38" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="38" height="38" /></a>
-</p>
-
-**Editors & Tools**
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="38" height="38" /></a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="38" height="38" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📈 Activity & Streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=buddy-jr&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=06b6d4&bg_color=0d1117&border_color=1e293b&hide_border=false" alt="Buddy's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddy-jr&layout=compact&theme=tokyonight&title_color=0891b2&bg_color=0d1117&border_color=1e293b&hide_border=false" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=buddy-jr&theme=dark&background=0d1117&border=1e293b&stroke=1e293b&ring=0891b2&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
 </div>
 
----
-
-### 🐍 My Contributions
+<br />
 
 <div align="center">
   <a href="https://github.com/buddy-jr">
