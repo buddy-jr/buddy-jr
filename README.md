@@ -15,7 +15,6 @@
 </p>
 
 ---
-> *"Building with logic, creating with art, and learning something new every day."*
 ### 👨‍💻 About Me
 
 - 🎓 **BS Computer Science** student at Northwest Samar State University
