@@ -15,7 +15,7 @@
 </p>
 
 ---
-### 👨‍💻 About Me
+### 👨‍💻 About Me:
 
 - 🎓 **BS Computer Science** student at Northwest Samar State University
 - 🌍 **Location:** Calbayog City, Western Samar, Philippines
