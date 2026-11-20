@@ -20,7 +20,7 @@
 
 - 🎓 **Education:** BS Computer Science Student
 - 🌍 **Location:** Calbayog City, Western Samar, Philippines
-- 🔭 **Focus:** Building web applications, solving algorithmic problems, and exploring full-stack development
+- 🔭 **Focus:** Building web applications, Building simple mobile application, and exploring full-stack development
 - 📫 **Reach me at:** [buddy.senolos@gmail.com](mailto:buddy.senolos@gmail.com)
 
 ---
