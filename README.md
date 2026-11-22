@@ -16,7 +16,7 @@
 
 ---
 ### 👨‍💻 About Me:
-
+- 🎓 **BS Computer Science** student at Northwest Samar State University
 - 🌍 **Location:** Calbayog City, Western Samar, Philippines
 - 🔭 **Focus:** Building web applications, Building simple mobile application, and exploring full-stack development
 - 📫 **Reach me at:** [buddy.senolos@gmail.com](mailto:buddy.senolos@gmail.com)
